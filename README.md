@@ -53,12 +53,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asmwasim&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmwasim&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=asmwasim&show_icons=true&theme=default&hide_border=true" alt="Abir's GitHub contribution statistics showing commits, PRs, and issues" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmwasim&layout=compact&theme=default&hide_border=true" alt="Chart displaying Abir's most used programming languages" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asmwasim&theme=default&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asmwasim&theme=default&hide_border=true" alt="Abir's GitHub contribution streak statistics"/>
 </p>
 
 ---
