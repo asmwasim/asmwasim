@@ -45,8 +45,6 @@
 | [db-vault](https://github.com/asmwasim/db-vault) | CLI tool for backing up & restoring databases with compression, scheduling, and Slack notifications | Python |
 | [todos](https://github.com/asmwasim/todos) | A clean todo application built with Flutter | Dart |
 | [complaint-bot](https://github.com/asmwasim/complaint-bot) | An automated complaint handling bot | JavaScript |
-| [online-judge-solution](https://github.com/asmwasim/online-judge-solution) | Collection of competitive programming solutions | C++ |
-| [speaker-adaptation](https://github.com/asmwasim/speaker-adaptation) | Speaker adaptation research project | Python |
 
 ---
 
